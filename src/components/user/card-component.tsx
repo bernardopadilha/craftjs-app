@@ -20,9 +20,7 @@ export function CardComponent({children}: CardProps) {
 
 
 export const ContainerSettings = () => {
-  const {
-    actions: { setProp },
-  } = useNode();
+
 };
 
 
